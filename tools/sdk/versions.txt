@@ -1,8 +1,8 @@
 esp-idf: 6407ecb3f8
-arduino: idf-release/v4.4 b49fafc4
+arduino: idf-release/v4.4 12eddb66
 esp32-camera: master 9e8d7cd
 esp-dl: master f3006d7
 esp-dsp: master 5824900
 esp_littlefs: master f2a949f
 esp-sr: master 654833d
-tinyusb: master 2ae6a4d51
+tinyusb: master f24f47d03
